@@ -10,6 +10,8 @@
 > 支持h2 h3 h4 三个级别的标题导航栏
 ---
 ## 效果图
+更多效果访问[WangXu’s Blog](https://nknow.top/)
+
 ![首页效果图](https://nknow.top/wp-content/uploads/2019/06/效果图1.png)
 ![文章页效果图](https://nknow.top/wp-content/uploads/2019/06/效果图2.png)
 ## 安装
@@ -45,3 +47,4 @@ git clone https://github.com/wangxu2016/NexT.Mist-for-WordPress.git
 ## 此处不打广告
 推荐一下`WP Editor.md`编辑器，结合本主题使用还是很好的选择。
 欢迎`fork`、`pr`，记得`stat`哟！
+
